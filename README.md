@@ -1,3 +1,5 @@
+# Cloud Data Warehouse with AWS
+
 #### Introduction and Motivation
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Sparkify has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app. The created architechture should serve the purpose of serving queries raised by Sparkify's analytics team.
 
